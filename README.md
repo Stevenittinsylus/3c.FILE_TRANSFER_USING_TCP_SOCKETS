@@ -56,7 +56,8 @@ with open('mytext.txt', 'wb')as f:
 
 ```
 ## OUPUT
-![Uploading image.png…]()
+<img width="1629" height="920" alt="image" src="https://github.com/user-attachments/assets/4f8358a5-6361-4813-b6cb-719f04b463f6" />
+
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
